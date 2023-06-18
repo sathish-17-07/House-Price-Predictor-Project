@@ -10,3 +10,12 @@
 <ul>
   <li><a href="">Please Click here</a></li>
 </ul>
+<hr />
+<b>Please install following libraries/modules before running the code</b>
+<ul>
+  <li>numpy</li>
+  <li>pandas</li>
+  <li>matplotlib</li>
+  <li>seaborn</li>
+  <li>Sklearn-scikit</li>
+</ul>
